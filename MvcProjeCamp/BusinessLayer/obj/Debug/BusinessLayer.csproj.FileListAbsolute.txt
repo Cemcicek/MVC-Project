@@ -1,0 +1,46 @@
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\BusinessLayer\obj\Debug\BusinessLayer.pdb

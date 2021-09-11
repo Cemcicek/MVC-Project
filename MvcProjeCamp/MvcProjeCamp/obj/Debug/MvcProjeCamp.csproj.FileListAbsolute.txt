@@ -1,0 +1,288 @@
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.dll.config
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.pdb
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\WebGrease.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CopyComplete
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.dll
+C:\Users\PC\Desktop\MvcProje\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.dll.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.exe
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.exe.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.rsp
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.exe
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.exe.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.rsp
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.AppContext.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Collections.Immutable.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Console.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.Compression.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.FileSystem.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Net.Http.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Net.Sockets.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.ValueTuple.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XPath.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.exe
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.exe.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.rsp
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\VBCSCompiler.exe
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\VBCSCompiler.exe.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Antlr3.Runtime.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Newtonsoft.Json.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Helpers.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Mvc.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Optimization.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Razor.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Deployment.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Razor.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\WebGrease.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Helpers.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Mvc.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Optimization.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Razor.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Deployment.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Razor.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Newtonsoft.Json.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Antlr3.Runtime.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Helpers.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Mvc.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Optimization.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Razor.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CoreCompileInputs.cache
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CopyComplete
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\BusinessLayer.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\DataAccessLayer.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityLayer.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\BusinessLayer.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\BusinessLayer.dll.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\DataAccessLayer.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\DataAccessLayer.dll.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityLayer.pdb
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityLayer.dll.config
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.SqlServer.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.SqlServer.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\FluentValidation.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\FluentValidation.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\MvcProjeCamp.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\BusinessLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\DataAccessLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityLayer.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\FluentValidation.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\WebGrease.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\BusinessLayer.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\BusinessLayer.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\DataAccessLayer.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\DataAccessLayer.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityLayer.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityLayer.dll.config
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\FluentValidation.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CopyComplete
