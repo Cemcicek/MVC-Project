@@ -6,6 +6,7 @@
 *.css linguist-detectable=false
 *.htm linguist-detectable=false
 *.scss linguist-detectable=false
+*.html linguist-detectable=false  
 node_modules/
 vendor/
 css/
