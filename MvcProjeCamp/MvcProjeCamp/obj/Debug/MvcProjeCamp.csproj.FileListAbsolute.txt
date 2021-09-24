@@ -286,3 +286,7 @@ C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Deployment.resources.dll
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\tr\System.Web.WebPages.Razor.resources.dll
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\MvcProjeCamp\obj\Debug\MvcProjeCamp.csproj.CopyComplete
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\PagedList.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\PagedList.Mvc.dll
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\PagedList.xml
+C:\MvcProject\MvcProjeCamp\MvcProjeCamp\bin\PagedList.Mvc.xml

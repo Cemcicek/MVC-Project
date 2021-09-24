@@ -102,6 +102,7 @@
     <Compile Include="Concrete\Skill.cs" />
     <Compile Include="Concrete\Writer.cs" />
     <Compile Include="Dtos\LoginDto.cs" />
+    <Compile Include="Dtos\WriterLoginDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -35,7 +35,7 @@ namespace BusinessLayer.Concrete
 
         public List<Message> GetListSendbox(string p)
         {
-            return _messageDal.List(x => x.SenderMail == p);
+            return _messageDal.List(x => x.SenderMail == p && x.IsDraft == false);
         }
 
         public List<Message> GetUnReadList()

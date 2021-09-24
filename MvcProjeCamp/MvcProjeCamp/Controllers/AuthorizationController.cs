@@ -13,7 +13,7 @@ namespace MvcProjeCamp.Controllers
 {
     public class AuthorizationController : Controller
     {
-        IAuthService authService = new AuthManager(new AdminManager(new EfAdminDal()));
+        IAuthService authService = new AuthManager(new AdminManager(new EfAdminDal()), new WriterManager(new EfWriterDal()));
         AdminManager adminManager = new AdminManager(new EfAdminDal());
         RoleManager roleManager = new RoleManager(new EfRoleDal());
         public ActionResult Index()

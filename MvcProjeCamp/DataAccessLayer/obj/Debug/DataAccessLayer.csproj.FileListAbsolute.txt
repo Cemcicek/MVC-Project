@@ -25,22 +25,11 @@ C:\MvcProject\MvcProjeCamp\DataAccessLayer\bin\Debug\EntityLayer.pdb
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\bin\Debug\EntityLayer.dll.config
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\bin\Debug\EntityFramework.xml
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mg_contentstatusadd.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_adddate.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
-C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
 C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
@@ -60,3 +49,7 @@ C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\DataAccessLayer\obj
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update.resources
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update2.resources
+C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update.resources
+C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update2.resources
+C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update3.resources
+C:\MvcProject\MvcProjeCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_update4.resources

@@ -85,6 +85,14 @@
     <Compile Include="Migrations\202109102022023_mig_update2.designer.cs">
       <DependentUpon>202109102022023_mig_update2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202109141944133_mig_update3.cs" />
+    <Compile Include="Migrations\202109141944133_mig_update3.designer.cs">
+      <DependentUpon>202109141944133_mig_update3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202109150624465_mig_update4.cs" />
+    <Compile Include="Migrations\202109150624465_mig_update4.designer.cs">
+      <DependentUpon>202109150624465_mig_update4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -104,6 +112,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202109102022023_mig_update2.resx">
       <DependentUpon>202109102022023_mig_update2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109141944133_mig_update3.resx">
+      <DependentUpon>202109141944133_mig_update3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202109150624465_mig_update4.resx">
+      <DependentUpon>202109150624465_mig_update4.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -17,7 +17,6 @@ C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\EntityFramework.dll
 C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
 C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\EntityFramework.xml
 C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
-C:\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
 C:\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
 C:\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.dll
@@ -56,3 +55,26 @@ C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\EntityLayer\obj\Deb
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\PC\Desktop\Yeni klasör (3)\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\StackExchange.Redis.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Buffers.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.IO.Pipelines.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Memory.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Threading.Channels.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\StackExchange.Redis.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Buffers.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.IO.Pipelines.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Memory.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Numerics.Vectors.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Threading.Channels.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\MvcProject\MvcProjeCamp\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
