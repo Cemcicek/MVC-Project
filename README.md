@@ -1,5 +1,5 @@
 # MVC-Project
-## Kullanılan Araçlar ve Teknolojiler:
+### Kullanılan Araçlar ve Teknolojiler:
 
 - Katmanlı Mimari
   
