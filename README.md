@@ -13,6 +13,7 @@
 Veritabanı olarak MSSQL kullanılmıştır, CodeFirst yardımıyla. Proje C# Mvc5 ile Solid Prensiplerine uygun şekilde N-tier architecture yapısını ezmeden kodlanmıştır. Business, Entity, DataAccess ve Presentation olmak üzere 4 temel katmandan oluşmaktadır. Projenin frontend tarafında Html5, Css, Bootstrap, Javascript, Jquery bileşenlerine yer verilmiştir. 
 
 ## Projenin Görselleri:
+
 ![](MvcProjeCamp/MvcProjeCamp/SS/g1.png)
 
 ![](MvcProjeCamp/MvcProjeCamp/SS/g2.png)
